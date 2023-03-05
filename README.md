@@ -18,3 +18,5 @@ Typing C will tell it to draw a capacitor.
 And that's a demo RC circuit 
 
 ![image](https://user-images.githubusercontent.com/111575476/222960395-8716d352-9c6f-4c0d-a29c-cef4da3bb8ba.png)
+
+Feedbacks are more than welcomed on my personal e-mail please contact : mamr2356@gmail.com if you have any feedback 
