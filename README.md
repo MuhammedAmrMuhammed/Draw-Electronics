@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/111575476/222959566-3c506b79-a298-4444-b1a6-507116054a57.png)
 
-# IC-design-tool
+# Draw-tool
 I'm currently working on a new way that is different than the drag and drop method for designing a circuit.
 
 For drawing the circuit I will be using the turtle library
